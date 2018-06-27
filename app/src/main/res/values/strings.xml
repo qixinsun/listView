@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">deletetry1</string>
+    <string name="grade">计算机151</string>
+    <string name="score">成绩</string>
+    <string name="banji">班级</string>
+    <string name="stid">学号</string>
+    <string name="name1">王菲</string>
+    <string name="name2">张宇</string>
+    <string name="name3">张学友</string>
+    <string name="name4">刘德华</string>
+</resources>
